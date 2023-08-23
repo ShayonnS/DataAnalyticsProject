@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Define the file path
-file_path = r'C:\Users\shayo\OneDrive\Desktop\PythonProject\MLS\FinalCleanMLS.csv'
+file_path = r'file_path'
 
 # Read the CSV file
 df = pd.read_csv(file_path)
